@@ -1,0 +1,7 @@
+[project]
+name = "rippie"
+version = "0.1.0"
+description = "A Discord bot that turns any music link into every music link. Built by dreamers."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
